@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SethTobias
 - 👀 I’m interested in programming and biology
-- 🌱 I’m currently learning Web Development consiting of languages such as: HTML, CSS, JavaScript and MySQL
+- 🌱 I’m currently learning Web Development consiting of languages such as: HTML, CSS, JavaScript and SQL
